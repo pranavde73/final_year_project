@@ -1,0 +1,9 @@
+Class Notation:
+A class notation consists of three parts:
+Class Name
+	The name of the class appears in the first partition.
+	Class Attributes
+	Attributes are shown in the second partition.
+	The attribute type is shown after the colon.
+	Attributes map onto member variables (data members) in code.
+	
